@@ -4,6 +4,9 @@ Repositorio del equipo D para el curso ET0187 – Bases de Datos 1. Este reposit
 # Integrantes y colaboradores del proyecto:
 
 -Juan David Garcia Jimenez
+
 -Daniela Montoya Quintero
+
 -Valentina Alejandra Perez Cardona
+
 -Juan Felipe Raigoza Cifuentes
